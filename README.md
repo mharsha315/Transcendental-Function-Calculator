@@ -22,7 +22,7 @@ Ensure you have the following installed on your machine:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mharsha315/Transcendental-Function-Calculator.git
 ```
 
 ### 2. Set Up in IntelliJ IDEA
@@ -44,8 +44,7 @@ git clone https://github.com/your-username/your-repo-name.git
 1. Go to **File > Project Structure > Libraries**.
 2. Click **+** and select **From Maven...**.
 3. Add the following dependencies:
-   - JUnit: `org.junit.jupiter:junit-jupiter:5.8.1`
-   - TestNG: `org.testng:testng:7.4.0`
+   - JUnit: `org.junit.jupiter:junit-jupiter:5.8.1
 4. Ensure these libraries are added to your project classpath.
 
 **Install Checkstyle and SonarLint Plugins:**
@@ -77,7 +76,7 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ## Tools Used
 
-- **JUnit and TestNG:** Used for creating and running unit tests. Ensure you have added these as dependencies in IntelliJ.
+- **JUnit:** Used for creating and running unit tests. Ensure you have added these as dependencies in IntelliJ.
 - **Checkstyle:** Used for ensuring coding standards are followed. Configured using `sun_checks.xml`.
 - **SonarLint:** Provides real-time feedback on code quality within IntelliJ.
 - **Java Debugger (JDB):** Used for step-by-step debugging of the application.
