@@ -12,7 +12,7 @@ The Transcendental Function Calculator is a Java-based GUI application designed 
 
 ## Prerequisites
 Ensure you have the following installed on your machine:
-- **Java Development Kit (JDK) 17 or later:** [Download JDK](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+- **Java Development Kit (JDK) 17 or later:**
 - **IntelliJ IDEA (Community Edition or Ultimate):** [Download IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 - **Git for version control:** [Download Git](https://git-scm.com/downloads)
 
